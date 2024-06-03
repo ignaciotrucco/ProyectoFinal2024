@@ -1,4 +1,4 @@
-bin/
-obj/
-\.vscode
-\ProyectoFinal2024\.vscode
+/ProyectoFinal2024/ProyectoFinal2024/bin/
+/ProyectoFinal2024/ProyectoFinal2024/obj/
+/.vscode
+/ProyectoFinal2024/.vscode
