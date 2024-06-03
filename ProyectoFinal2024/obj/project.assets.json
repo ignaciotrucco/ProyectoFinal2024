@@ -8462,11 +8462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoFinal2024\\ProyectoFinal2024.csproj",
+      "projectUniqueName": "C:\\Users\\trucc\\OneDrive\\Desktop\\ProyectoFinal2024\\ProyectoFinal2024\\ProyectoFinal2024.csproj",
       "projectName": "ProyectoFinal2024",
-      "projectPath": "C:\\ProyectoFinal2024\\ProyectoFinal2024.csproj",
+      "projectPath": "C:\\Users\\trucc\\OneDrive\\Desktop\\ProyectoFinal2024\\ProyectoFinal2024\\ProyectoFinal2024.csproj",
       "packagesPath": "C:\\Users\\trucc\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoFinal2024\\obj\\",
+      "outputPath": "C:\\Users\\trucc\\OneDrive\\Desktop\\ProyectoFinal2024\\ProyectoFinal2024\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trucc\\AppData\\Roaming\\NuGet\\NuGet.Config"

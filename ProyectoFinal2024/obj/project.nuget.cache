@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iel0TOP8SYhj3d2MR8vhTlfF8LpxeY6ojxEYlfQ9/GbHpbtrVExgr0whMzCtKPcgjGNhsnIOW1YPQZJDUfCg3g==",
+  "dgSpecHash": "XCqsweEhGSYNgR/JGOgJ1+DLLTmJQSIN+/MJwCHjOJwLKndYtlGpMvT2N/xQD/zOfuyhQ1R5eVbj9573p7lNRw==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoFinal2024\\ProyectoFinal2024.csproj",
+  "projectFilePath": "C:\\Users\\trucc\\OneDrive\\Desktop\\ProyectoFinal2024\\ProyectoFinal2024\\ProyectoFinal2024.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trucc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\trucc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
